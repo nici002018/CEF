@@ -1,8 +1,8 @@
-# JCFE Forge DLLs for Minecraft 1.8.9
+# JCEF Forge DLLs for Minecraft 1.8.9
 
 Hello there 👋
 
-This repository hosts the DLL files from JCFE 1.8.9 by chromiumembedded.
+This repository hosts the DLL files from JCEF 1.8.9 by chromiumembedded.
 
 The purpose of this repository is to reduce the size of the mod JAR by providing the required DLLs externally.
 
